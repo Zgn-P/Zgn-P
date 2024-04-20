@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Ja5jx6aYgTKj2kc66">
+<img align="right" alt="Coding" width="400" src="">
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Zgn-P/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/azure-cli/github-readme-quotes)
 
 
 ### Hi there 👋
