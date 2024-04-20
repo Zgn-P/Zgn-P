@@ -1,12 +1,7 @@
 <img align="right" alt="Coding" width="400" src="">
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zgn-P&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zgn-P&repo=convoychat" />
-</a>
+
 
 
 ### Hi there 👋
@@ -22,10 +17,5 @@ Want to know where our mutual interest converge??? Let's see:
 - ⚡ Fun fact: I can be your go-to-guy for Infra automation...
 
 
-[![Jagan's GitHub stats1](https://github-readme-stats.vercel.app/api?username=Zgn-P)](https://github.com/Zgn-P/github-readme-stats)
 
-![Jagan's GitHub stats2](https://github-readme-stats.vercel.app/api?username=Zgn-P&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Jagan's GitHub stats3](https://github-readme-stats.vercel.app/api?username=Zgn-P&show_icons=true)
-
-[![Jagan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zgn-P&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Jagan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zgn-P&show=prs_merged,prs_merged_percentage_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
