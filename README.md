@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Want to know where our mutual interest converge??? to get started with here are some of mine:
+Want to know where our mutual interest converge??? Let's see:
 
 - 🔭 I’m currently working on Integrating AI to our Organizational DevOps practices hence exploring Copilot like features...
 - 🌱 I’m currently learning Mulesoft Eentreprise Service Bus & API Management
