@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Ja5jx6aYgTKj2kc66">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 ### Hi there 👋
 
