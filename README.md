@@ -1,4 +1,4 @@
-<img align="right" src="http://ompldr.org/vaDU5NQ/scrotter.png">
+<img align="left" src="http://ompldr.org/vaDU5NQ/scrotter.png">
 
 
 
