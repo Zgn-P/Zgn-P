@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zgn-p&label=Profile%20views&color=0e75b6&style=flat" alt="zgn-p" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zgn-p&label=PROFILE+VIEWS&color=0e75b6&style=flat&base=7300&abbreviated=true" alt="zgn-p" /> </p>
 
 
 
