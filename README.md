@@ -25,5 +25,5 @@ Want to know where our mutual interest converge??? Let's see:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zgn-p&show_icons=true&locale=en&layout=donut&langs_count=5" alt="zgn-p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zgn-p&show_icons=true&locale=en&theme=midnight-purple#gh-dark-mode-only" alt="zgn-p" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zgn-p&locale=en&theme=midnight-purple#gh-dark-mode-only" alt="zgn-p" /></p>
 
