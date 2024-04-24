@@ -15,7 +15,7 @@ Want to know where our mutual interest converge??? Let's see:
 - 📫 How to reach me: jagan.parida0@gmail.com...
 - ⚡ Fun fact: I can be your go-to-guy for Infra automation...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zgn-P&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-[![Jagan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zgn-P&show=prs_merged,prs_merged_percentage_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+<p align="right"> <[![Jagan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zgn-P&show=prs_merged,prs_merged_percentage_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) /> </p>
