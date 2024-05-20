@@ -13,7 +13,6 @@ Want to know where our mutual interest converge??? Let's see:
 
 
 - 📫 How to reach me: jagan.parida0@gmail.com...
-- ⚡ Fun fact: I can be your go-to-guy for Infra automation...
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zgn-P&theme=algolia" alt="zgn-p" /></a> </p>
